@@ -1,7 +1,7 @@
-title: BIAS in MIA, 2023
+title: Bern Interpretable AI Symposium (BIAS) - coming in March 2023
 preposition: ''
 description: >-
-  Welcome to the Bern Interpretable AI Symposium (BIAS) in Medical Image Analysis (March 2023) in Bern.
+  Welcome to BIAS in Medical Image Analysis, a one-day symposium at University of Bern.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bias-mia.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -30,7 +30,7 @@ collections:
   speakers:
     output: true
     permalink: /:collection/:title/
-  rooms:
+  location:
     output: true
     permalink: /:collection/:title/
 
@@ -47,9 +47,9 @@ defaults:
       layout: speaker
   - scope:
       path: ""
-      type: rooms
+      type: location
     values:
-      layout: room
+      layout: location
 
 # Theme default values
 conference:
