@@ -1,7 +1,7 @@
 ---
-    ---
+---
 
-    {% include js / conference.js %}
+{% include js / conference.js %}
 
 (() => {
     const map = window.conference.map;
