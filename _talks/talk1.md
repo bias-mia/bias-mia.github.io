@@ -3,7 +3,7 @@ name: Technical Keynote
 speakers:
   - Technical Speaker
 categories:
-  - Technical
+  - Academic
   - Keynotes
 ---
 

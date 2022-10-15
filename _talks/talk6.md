@@ -10,7 +10,7 @@ categories:
   - Panel
   - Clinical
   - Industry
-  - Technical
+  - Academic
 ---
 
 TBD - announcements shortly.

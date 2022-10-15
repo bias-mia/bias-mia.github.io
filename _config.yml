@@ -122,7 +122,7 @@ conference:
         color: warning
       - name: Clinical
         color: secondary
-      - name: Technical
+      - name: Academic
         color: primary
       - name: Panel
         color: success
@@ -138,7 +138,7 @@ conference:
     # Main page title shown on location/room navigation bar
     navbar_title: "Location"
     # Show map on location main page
-    map: true
+    map: False
 
   program:
     url: "/program"
