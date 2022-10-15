@@ -1,4 +1,4 @@
 ---
 ---
 
-{% include js / conference.js %}
+{% include js/conference.js %}
