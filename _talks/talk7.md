@@ -5,7 +5,7 @@ speakers:
   - Organizer Two
   - Organizer Three
 categories:
-  - Talk
+  - Information
 ---
 
 TBD - announcements shortly.

@@ -4,7 +4,7 @@ speakers:
   - Organizer One
   - Organizer Two
 categories:
-  - Talk
+  - Information
 ---
 
 TBD - announcements shortly.

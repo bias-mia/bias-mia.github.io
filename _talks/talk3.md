@@ -4,8 +4,7 @@ speakers:
   - Industry Speaker
 categories:
   - Industry
-  - Keynote
-  - Talk
+  - Keynotes
 links:
   - name: Recording
     icon: video

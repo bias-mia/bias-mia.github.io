@@ -4,8 +4,7 @@ speakers:
   - Clinical Speaker
 categories:
   - Clinical
-  - Keynote
-  - Talk
+  - Keynotes
 ---
 
 TBD - announcements shortly.

@@ -3,8 +3,7 @@ name: Young Researcher Talk 2
 speakers:
   - YR Speaker2
 categories:
-  - Keynote
-  - Talk
+  - Keynotes
 ---
 
 TBD - announcements shortly.

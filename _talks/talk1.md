@@ -3,9 +3,8 @@ name: Technical Keynote
 speakers:
   - Technical Speaker
 categories:
-  - Keynote
   - Technical
-  - Talk
+  - Keynotes
 ---
 
 TBD - announcements shortly.

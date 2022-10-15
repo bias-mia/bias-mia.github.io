@@ -114,8 +114,10 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Keynotes
+      - name: Information
         color: info
+      - name: Keynotes
+        color: alert
       - name: Panel
         color: success
       - name: Technical
