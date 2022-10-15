@@ -80,7 +80,6 @@ conference:
         relative_url: /program/
       - name: How to get there
         relative_url: /location/
-        absolute_url: ""
 
   link_preview:
     disable: false
