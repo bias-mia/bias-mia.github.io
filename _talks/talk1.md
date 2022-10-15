@@ -1,7 +1,7 @@
 ---
 name: Technical Keynote
 speakers:
-  - Wile Coyote
+  - Technical Speaker
 categories:
   - Keynote
   - Technical

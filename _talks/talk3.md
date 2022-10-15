@@ -1,7 +1,7 @@
 ---
 name: Industry Keynote
 speakers:
-  - Road Runner
+  - Industry Speaker
 categories:
   - Industry
   - Keynote

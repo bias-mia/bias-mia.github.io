@@ -1,8 +1,7 @@
 ---
 name: Clinical Keynote
 speakers:
-  - Road Runner
-  - Wile Coyote
+  - Clinical Speaker
 categories:
   - Clinical
   - Keynote
