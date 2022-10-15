@@ -120,12 +120,12 @@ conference:
         color: warning
       - name: Clinical
         color: secondary
+      - name: Technical
+        color: primary
       - name: Keynotes
         color: alert
       - name: Panel
         color: success
-      - name: Technical
-        color: primary
 
   speakers:
     show_firstname: true
