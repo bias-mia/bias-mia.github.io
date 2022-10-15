@@ -1,9 +1,9 @@
 ---
-name: Young Researcher Talk 1
+name: Opening
 speakers:
-  - YR Speaker1
+  - Organizer One
+  - Organizer Two
 categories:
-  - Keynote
   - Talk
 ---
 

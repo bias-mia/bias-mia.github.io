@@ -2,4 +2,4 @@
 name: Room A
 ---
 
-A short way description on how to find the room
+To be announced shortly - somewhere on the Uni Bern campus.

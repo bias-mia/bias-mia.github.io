@@ -1,10 +1,12 @@
 ---
-name: Condimentum Vitae Sapien Pellentesque
+name: Clinical Keynote
 speakers:
-  - Tolga Philip
-  - Alex Rosales
+  - Road Runner
+  - Wile Coyote
 categories:
-  - Cat A
+  - Clinical
+  - Keynote
   - Talk
-hide: true
 ---
+
+TBD - announcements shortly.

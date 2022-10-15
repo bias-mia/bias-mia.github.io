@@ -1,12 +1,13 @@
 ---
-name: Arcu Non Odio
+name: Industry Keynote
 speakers:
-  - Alex Rosales
+  - Road Runner
 categories:
-  - Cat A
+  - Industry
+  - Keynote
   - Talk
 links:
-  - name: Recodring
+  - name: Recording
     icon: video
     absolute_url: https://media.ccc.de/
   - name: Wikipedia

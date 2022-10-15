@@ -1,8 +1,8 @@
 ---
-name: Industry Speaker
+name: Industry Sponsor
 first_name: Industry
-last_name: Speaker
+last_name: Sponsor
 links:
-  - name: Industry Speaker
+  - name: Industry Sponsor
     absolute_url: https://github.com
 ---

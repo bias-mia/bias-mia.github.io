@@ -1,4 +1,5 @@
 ---
 name: Room B
-hide: true
 ---
+
+To be announced shortly - somewhere on the Uni Bern campus.

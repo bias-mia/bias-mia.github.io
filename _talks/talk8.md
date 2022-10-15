@@ -1,9 +1,8 @@
 ---
-name: Young Researcher Talk 1
+name: Industry Talk and Networking 1
 speakers:
-  - YR Speaker1
+  - Industry Sponsor
 categories:
-  - Keynote
   - Talk
 ---
 

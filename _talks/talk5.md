@@ -1,7 +1,7 @@
 ---
-name: Young Researcher Talk 1
+name: Young Researcher Talk 2
 speakers:
-  - YR Speaker1
+  - YR Speaker2
 categories:
   - Keynote
   - Talk
