@@ -121,7 +121,7 @@ conference:
       - name: Clinical
         color: secondary
       - name: Keynotes
-        color: dark
+        color: alert
       - name: Panel
         color: success
       - name: Technical
