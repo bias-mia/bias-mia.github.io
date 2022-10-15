@@ -89,7 +89,7 @@ conference:
   live:
     date: 24.03.2023
     timezone: GMT+1
-    stop: 240 # in minutes
+    stop: 480 # in minutes
     streaming:
       enable: true
       pause: 60 # in minutes
