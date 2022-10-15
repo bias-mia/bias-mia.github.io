@@ -116,14 +116,14 @@ conference:
     main_categories:
       - name: Information
         color: info
+      - name: Keynotes
+        color: alert
       - name: Industry
         color: warning
       - name: Clinical
         color: secondary
       - name: Technical
         color: primary
-      - name: Keynotes
-        color: alert
       - name: Panel
         color: success
 
