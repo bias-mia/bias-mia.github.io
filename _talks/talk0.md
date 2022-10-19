@@ -1,8 +1,8 @@
 ---
 name: Opening
 speakers:
-  - Organizer One
-  - Organizer Two
+  - Amith Kamath
+  - Yannick Suter
 categories:
   - Information
 ---

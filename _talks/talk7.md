@@ -1,9 +1,9 @@
 ---
 name: Closing and Awards
 speakers:
-  - Organizer One
-  - Organizer Two
-  - Organizer Three
+  - Amith Kamath
+  - Yannick Suter
+  - Mauricio Reyes
 categories:
   - Information
 ---
