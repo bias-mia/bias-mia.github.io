@@ -18,3 +18,7 @@ We invite submissions of extended abstracts for oral and poster presentation dur
 ## Motivation
 
 Although the "AI model" boom in recent years has generated promising results in mission-critical fields like medical imaging, interpretability is a major question mark. The understanding of medical images by researchers in academia, industry and clinics could be different, and we believe requires a common language and terminology for obtaining precise and safe inferences. Developing novel tools in computer aided diagnosis, therapy and intervention depends critically on our ability to explain its' behavior, assign a level of accountability, and BIAS attempts to bring these questions to the fore, in an unbiased manner. The symposium aims to raise awareness amongst all the stakeholders of the unmet needs in interpretability for successful deployment of AI in medical imaging.
+
+## Contact the Organizers
+
+To contact the organizers, please reach out to [Amith](/speakers/amith_kamath), [Yannick](/speakers/yannick_suter) or [Dr. Mauricio Reyes](/speakers/mauricio_reyes).
