@@ -2,8 +2,8 @@
 name: Closing and Awards
 speakers:
   - Amith Kamath
-  - Yannick Suter
   - Mauricio Reyes
+  - Yannick Suter
 categories:
   - Information
 ---
