@@ -68,6 +68,8 @@ conference:
         relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
+      - name: Submission
+        relative_url: /submission/
       - name: Location
         relative_url: /location/
 
@@ -78,7 +80,7 @@ conference:
     links:
       - name: Program
         relative_url: /program/
-      - name: How to get there
+      - name: How to reach us
         relative_url: /location/
 
   link_preview:
