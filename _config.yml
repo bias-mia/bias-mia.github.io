@@ -58,8 +58,8 @@ conference:
 
   navigation:
     logo:
-      name: ARTORG
-      img: "/assets/images/artorg-logo-transparent.png"
+      name: about ARTORG
+      #img: "/assets/images/artorg-logo-transparent.png"
       url: "https://www.artorg.unibe.ch/"
     links:
       - name: Program
