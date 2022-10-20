@@ -59,7 +59,7 @@ conference:
   navigation:
     logo:
       name: ARTORG
-      # img: ''
+      img: "/assets/images/artorg_logo.gif"
       url: "https://www.artorg.unibe.ch/"
     links:
       - name: Program
