@@ -8,7 +8,7 @@ Acceptance and selection of orals and posters will be based on how well it match
 
 ## Submission
 
-Abstract submissions are due February 10th, AoE (Submission tool TBD)
+Abstract submissions are due February 10th, AoE ([Click here to go to CMT](https://cmt3.research.microsoft.com/BIAS2023))
 
 Authors will be notified by February 24th, 2023.
 
