@@ -1,9 +1,8 @@
 ---
-name: Clinical Keynote
+name: Keynote-2
 speakers:
-  - Clinical Speaker
+  - Keynote Speaker2
 categories:
-  - Clinical
   - Keynotes
 ---
 

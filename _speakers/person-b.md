@@ -1,9 +1,9 @@
 ---
-name: Technical Speaker
-first_name: Technical
-last_name: Speaker
+name: Keynote Speaker1
+first_name: Keynote
+last_name: Speaker1
 links:
-  - name: Technical Speaker
+  - name: Keynote Speaker1
     absolute_url: https://github.com
 ---
 

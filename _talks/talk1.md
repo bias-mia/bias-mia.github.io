@@ -1,9 +1,8 @@
 ---
-name: Technical Keynote
+name: Keynote-1
 speakers:
-  - Technical Speaker
+  - Keynote Speaker1
 categories:
-  - Academic
   - Keynotes
 ---
 
