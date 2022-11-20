@@ -3,7 +3,6 @@ name: Industry Keynote
 speakers:
   - Industry Speaker
 categories:
-  - Industry
   - Keynotes
 links:
   - name: Recording

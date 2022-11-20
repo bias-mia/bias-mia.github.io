@@ -4,8 +4,7 @@ speakers:
   - Yannick Suter
   - Amith Kamath
 categories:
-  - Academic
-  - Keynotes
+  - Student
 ---
 
 TBD - announcements shortly.

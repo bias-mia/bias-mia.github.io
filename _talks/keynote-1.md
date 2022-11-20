@@ -1,5 +1,5 @@
 ---
-name: Technical Keynote
+name: Keynote 1
 speakers:
   - Henning Müller
 categories:

@@ -7,9 +7,6 @@ speakers:
   - Mauricio Reyes
 categories:
   - Panel
-  - Clinical
-  - Industry
-  - Academic
 ---
 
 TBD - announcements shortly.

@@ -3,7 +3,7 @@ name: Young Researcher Talk
 speakers:
   - YR Speaker
 categories:
-  - Academic
+  - Student
   - Keynotes
 ---
 

@@ -118,12 +118,10 @@ conference:
       - name: Information
         color: info
       - name: Keynotes
-        color: alert
-      - name: Industry
         color: warning
-      - name: Clinical
+      - name: Industry
         color: secondary
-      - name: Academic
+      - name: Student
         color: primary
       - name: Panel
         color: success

@@ -1,5 +1,5 @@
 ---
-name: Technical Keynote 2
+name: Keynote 2
 speakers:
   - Rich Caruana
 categories:

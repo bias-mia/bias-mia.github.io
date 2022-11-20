@@ -8,27 +8,30 @@ days:
           - name: Opening
             time_start: "09:30"
             time_end: "10:00"
-          - name: Technical Keynote
+          - name: Keynote 1
             time_start: "10:00"
             time_end: "10:45"
-          - name: Technical Keynote 2
+          - name: Keynote 2
             time_start: "10:45"
             time_end: "11:30"
           - name: Poster Lightning Talks
             time_start: "11:30"
             time_end: "12:15"
-          - name: Industry Keynote
+          - name: Young Researcher Talk
             time_start: "13:15"
             time_end: "14:00"
-          - name: Young Researcher Talk
+          - name: Keynote 3
             time_start: "14:00"
             time_end: "14:45"
           - name: Panel Discussion
             time_start: "14:45"
             time_end: "15:45"
-          - name: Industry Talk and Networking
-            time_start: "16:00"
-            time_end: "16:30"
-          - name: Closing and Awards
+          - name: Industry Talk 1
+            time_start: "15:45"
+            time_end: "16:15"
+          - name: Industry Talk 2
+            time_start: "16:15"
+            time_end: "16:45"
+          - name: Closing, Awards and Networking
             time_start: "16:45"
             time_end: "17:00"
