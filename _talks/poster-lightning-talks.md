@@ -1,8 +1,8 @@
 ---
 name: Poster Lightning Talks
 speakers:
-  - Yannick Suter
   - Amith Kamath
+  - Yannick Suter
 categories:
   - Student
 ---
