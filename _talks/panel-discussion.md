@@ -1,11 +1,10 @@
 ---
 name: Panel Discussion
 speakers:
-  - Clinical Speaker
-  - Technical Speaker
+  - Henning Müller
+  - Rich Caruana
   - Industry Speaker
-  - YR Speaker1
-  - YR Speaker2
+  - Mauricio Reyes
 categories:
   - Panel
   - Clinical

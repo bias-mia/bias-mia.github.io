@@ -1,7 +1,8 @@
 ---
-name: Young Researcher Talk 1
+name: Poster Lightning Talks
 speakers:
-  - YR Speaker1
+  - Yannick Suter
+  - Amith Kamath
 categories:
   - Academic
   - Keynotes

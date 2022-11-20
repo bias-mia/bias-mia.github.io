@@ -1,5 +1,5 @@
 ---
-name: Industry Talk and Networking 1
+name: Industry Talk and Networking
 speakers:
   - Industry Sponsor
 categories:
