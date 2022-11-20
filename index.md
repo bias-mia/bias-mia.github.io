@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Bern Interpretable AI Symposium
-
 ## Overview
 
 The Bern Interpretable AI Symposium (for Medical Image Analysis) is a one-day meeting (on the 24th of March 2023), aiming to bring researchers together in the medical image interpretable AI community. Our hope and objective is to attempt to "open the black box", share insights into challenges and breakthroughs in this field and to foster better interaction with each other. 
