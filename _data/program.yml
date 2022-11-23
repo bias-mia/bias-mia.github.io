@@ -11,7 +11,7 @@ days:
           - name: Introduction to Interpretable AI
             time_start: "09:45"
             time_end: "10:15"
-          - name: Coffee break AM
+          - name: Coffee Break AM
             time_start: "10:15"
             time_end: "10:30"
           - name: Keynote 1
