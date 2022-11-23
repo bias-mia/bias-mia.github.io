@@ -1,5 +1,5 @@
 ---
-name: Closing, Awards and Networking
+name: Closing, Awards, Networking and Apero
 speakers:
   - Amith Kamath
   - Mauricio Reyes
