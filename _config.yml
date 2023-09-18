@@ -72,6 +72,12 @@ conference:
         relative_url: /submission/
       - name: Location
         relative_url: /location/
+      - name: Previous Editions
+        menu:
+          - name: 2024 (current)
+            disabled: true
+          - name: 2023
+            relative_url: /2023/
 
   # Main landing page
   main:
