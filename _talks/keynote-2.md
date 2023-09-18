@@ -1,7 +1,7 @@
 ---
-name: Keynote 2
+name: Keynote - The day 2 problem for medical imaging AI
 speakers:
-  - Rich Caruana
+  - Matt Lungren
 categories:
   - Keynotes
 ---

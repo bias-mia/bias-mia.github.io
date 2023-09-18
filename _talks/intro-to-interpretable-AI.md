@@ -1,7 +1,7 @@
 ---
-name: Introduction to Interpretable AI
+name: Machine learning interpretability - Road to mastery - Tutorial
 speakers:
-  - Toby Decided
+  - Mara Graziani
 categories:
   - Student
 ---

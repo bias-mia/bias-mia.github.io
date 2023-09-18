@@ -1,5 +1,5 @@
 ---
-name: Keynote 1
+name: Keynote - The need for interpretability in clinical decision support
 speakers:
   - Henning Müller
 categories:

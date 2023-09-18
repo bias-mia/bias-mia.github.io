@@ -1,10 +1,10 @@
 ---
 name: Panel Discussion
 speakers:
-  - Henning Müller
+  - Mara Graziani
   - Rich Caruana
-  - Keynote Speaker3
-  - YR Speaker
+  - Mo Anas
+  - Lisa Koch
   - Mauricio Reyes
 categories:
   - Panel

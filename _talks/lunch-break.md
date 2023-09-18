@@ -1,9 +1,11 @@
 ---
-name: Coffee Break PM
+name: Lunch Break
 speakers:
-  - Toby Decided
+  - Amith Kamath
+  - Yannick Suter
 categories:
   - Information
+  - Student
 ---
 
 TBD - announcements shortly.

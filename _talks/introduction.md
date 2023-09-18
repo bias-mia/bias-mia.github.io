@@ -1,10 +1,10 @@
 ---
-name: Poster Lightning Talks
+name: Introduction and Welcome
 speakers:
   - Amith Kamath
   - Yannick Suter
 categories:
-  - Student
+  - Information
 ---
 
 TBD - announcements shortly.

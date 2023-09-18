@@ -1,9 +1,9 @@
 ---
-name: Lunch Break + Poster Session
+name: Poster Session II
 speakers:
-  - Toby Decided
+  - Amith Kamath
+  - Yannick Suter
 categories:
-  - Information
   - Student
 ---
 

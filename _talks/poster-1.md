@@ -1,10 +1,10 @@
 ---
-name: Opening and Registration
+name: Poster Session I
 speakers:
   - Amith Kamath
   - Yannick Suter
 categories:
-  - Information
+  - Student
 ---
 
 TBD - announcements shortly.
